@@ -17,3 +17,4 @@ This C++ project demonstrates how to work with arrays by removing duplicate inte
 
 ## 📋 Example Output
 
+![image](https://github.com/user-attachments/assets/e72b6e21-08e5-46ae-8253-f3ef87ed6858)
